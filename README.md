@@ -1,4 +1,4 @@
-# chess-masters-strategic-ai-engine
+# Chess Masters Strategic AI Engine
 Advanced Alpha-Beta Pruning Algorithms for Grandmaster-Level Decision Making
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
